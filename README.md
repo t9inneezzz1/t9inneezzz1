@@ -18,7 +18,7 @@ Junior SOC Analyst role (target: late 2025)
 TryHackMe: Pre-Security → SOC Level 1 → Jr Pentester paths
 
 
-Active
+Active:
 TryHackMe (Ton1x)
 YouTube (Tonix)
 LinkedIn (Ali Tonito Bahriogullari)
