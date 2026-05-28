@@ -1,16 +1,24 @@
-## Hi there 👋
+Ali Tonito Bahriogullari
+Aspiring SOC Analyst & Penetration Tester based in Northampton, UK.
+Currently working through the TryHackMe Pre-Security and SOC Level 1 paths.
+Documenting every room as a video walkthrough on YouTube.
 
-<!--
-**t9inneezzz1/t9inneezzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focus areas
 
-Here are some ideas to get you started:
+Network fundamentals (LAN, OSI model, TCP/IP, subnetting)
+Security operations (log analysis, threat detection, incident response)
+Offensive security (enumeration, exploitation, post-exploitation)
+Linux systems (Arch + Hyprland daily driver, EndeavourOS lab machine)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently building toward
+
+CompTIA Security+
+Junior SOC Analyst role (target: late 2025)
+TryHackMe: Pre-Security → SOC Level 1 → Jr Pentester paths
+
+
+Active
+TryHackMe (Ton1x)
+YouTube (Tonix)
+LinkedIn (Ali Tonito Bahriogullari)
